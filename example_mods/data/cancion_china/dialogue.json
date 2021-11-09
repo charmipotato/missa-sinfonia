@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"expression": "cool",
+			"text": "esa cancion estuvo perrona viejo!",
+			"boxState": "normal",
+			"portrait": "missa",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "bfcool",
+			"speed": 0.05
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "wtf",
+			"text": ". . ."
+		},
+		{
+			"expression": "angry",
+			"text": "espera un segundo",
+			"boxState": "normal",
+			"portrait": "missa",
+			"speed": 0.05
+		},
+		{
+			"expression": "confiused",
+			"text": "esa es una guitarra china!?",
+			"boxState": "angry",
+			"portrait": "missa",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "estaba a 5 pesos",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "confiused",
+			"text": "5 pesos?",
+			"boxState": "normal",
+			"portrait": "missa",
+			"speed": 0.05
+		},
+		{
+			"expression": "cool",
+			"text": "me diste una idea! toca ritmo viejo",
+			"boxState": "normal",
+			"portrait": "missa",
+			"speed": 0.05
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfcool",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep!"
+		}
+	]
+}

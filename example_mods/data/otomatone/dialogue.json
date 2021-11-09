@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"expression": "confused",
+			"text": "que-",
+			"boxState": "normal",
+			"portrait": "missa",
+			"speed": 0.1
+		},
+		{
+			"expression": "talk",
+			"text": "beep!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "angry",
+			"text": "como entraste a mi casa !?",
+			"boxState": "normal",
+			"portrait": "missa",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "beep boop beep",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "angry",
+			"text": "como que rola te dejo entrar!?",
+			"boxState": "normal",
+			"portrait": "missa",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "usted ordeno un cantante ",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "confiused",
+			"text": "entonces eres el cantante que pedi por fiiver?",
+			"boxState": "normal",
+			"portrait": "missa",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "boop!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "esta bien,probemos con un dueto minimalista vale?",
+			"boxState": "normal",
+			"portrait": "missa",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "beep boop!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "cool",
+			"text": "bien, improvisare un poco y luego tu sigues ok?",
+			"boxState": "normal",
+			"portrait": "missa",
+			"speed": 0.05
+		}
+	]
+}

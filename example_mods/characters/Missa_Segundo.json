@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				75,
+				-78
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "MissaPensandoLEFT"
+		},
+		{
+			"offsets": [
+				17,
+				-65
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "MissaPensandoRIGHT"
+		},
+		{
+			"offsets": [
+				5,
+				-172
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MissaPensandoDOWN"
+		},
+		{
+			"offsets": [
+				29,
+				-55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MissaPensandoUP"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-1,
+				-70
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "MissaPensandoIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-70
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "MissaPensandoIdle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Missasinfonia_Segundo",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "missa",
+	"flip_x": true,
+	"healthbar_colors": [
+		40,
+		40,
+		40
+	],
+	"camera_position": [
+		-60,
+		170
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

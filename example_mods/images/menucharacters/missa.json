@@ -1,0 +1,11 @@
+{
+
+	"image": "Menu_Missa",
+	"position": [
+		60,
+		70
+	],
+	"scale": 0.7,
+	"idle_anim": "M MissaPensandoIdle",
+	"confirm_anim": "M MissaPensandoIdle"
+}

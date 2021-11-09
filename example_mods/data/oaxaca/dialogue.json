@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "angry",
+			"text": "que demonios fue eso!?",
+			"boxState": "angry",
+			"portrait": "missa",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "beep?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "confiused",
+			"text": "osea, si, sono genial y todo, pero",
+			"boxState": "normal",
+			"portrait": "missa",
+			"speed": 0.05
+		},
+		{
+			"expression": "angry",
+			"text": "era necesario hablar de esa forma?!",
+			"boxState": "angry",
+			"portrait": "missa",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "bep",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "confiused",
+			"text": "mira,sabes tocar la guitarra?",
+			"boxState": "normal",
+			"portrait": "missa",
+			"speed": 0.05
+		},
+		{
+			"expression": "cool",
+			"text": "beep!",
+			"boxState": "normal",
+			"portrait": "bfcool",
+			"speed": 0.05
+		},
+		{
+			"expression": "cool",
+			"text": "pues preparate porque tengo una rola para ti!",
+			"boxState": "normal",
+			"portrait": "missa",
+			"speed": 0.05
+		}
+	]
+}

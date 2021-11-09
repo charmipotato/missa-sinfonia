@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ms_Dialogue.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MsAngry0000" x="823" y="10" width="395" height="690" frameX="0" frameY="-13" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="MsAngryLoop0000" x="10" y="10" width="382" height="703" frameX="-8" frameY="0" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="MsAngryLoop0001" x="10" y="10" width="382" height="703" frameX="-8" frameY="0" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="MsAngryLoop0002" x="412" y="10" width="391" height="697" frameX="-2" frameY="-6" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="MsAngryLoop0003" x="412" y="10" width="391" height="697" frameX="-2" frameY="-6" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="MsAngryLoop0004" x="823" y="10" width="395" height="690" frameX="0" frameY="-13" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="MsAngryLoop0005" x="823" y="10" width="395" height="690" frameX="0" frameY="-13" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="MsCool0000" x="2051" y="10" width="395" height="690" frameX="0" frameY="-13" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="MsCoolLoop0000" x="1238" y="10" width="382" height="703" frameX="-8" frameY="0" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="MsCoolLoop0001" x="1238" y="10" width="382" height="703" frameX="-8" frameY="0" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="MsCoolLoop0002" x="1640" y="10" width="391" height="697" frameX="-2" frameY="-6" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="MsCoolLoop0003" x="1640" y="10" width="391" height="697" frameX="-2" frameY="-6" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="MsCoolLoop0004" x="2051" y="10" width="395" height="690" frameX="0" frameY="-13" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="MsCoolLoop0005" x="2051" y="10" width="395" height="690" frameX="0" frameY="-13" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="MsTalk0000" x="10" y="733" width="395" height="690" frameX="0" frameY="-13" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="MsTalkLoop0000" x="2466" y="10" width="383" height="703" frameX="-7" frameY="0" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="MsTalkLoop0001" x="2466" y="10" width="383" height="703" frameX="-7" frameY="0" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="MsTalkLoop0002" x="2869" y="10" width="392" height="697" frameX="-2" frameY="-6" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="MsTalkLoop0003" x="2869" y="10" width="392" height="697" frameX="-2" frameY="-6" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="MsTalkLoop0004" x="10" y="733" width="395" height="690" frameX="0" frameY="-13" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="MsTalkLoop0005" x="10" y="733" width="395" height="690" frameX="0" frameY="-13" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="Msconfiused0000" x="1238" y="733" width="395" height="690" frameX="0" frameY="-13" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="MsconfiusedLoop0000" x="425" y="733" width="382" height="703" frameX="-8" frameY="0" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="MsconfiusedLoop0001" x="425" y="733" width="382" height="703" frameX="-8" frameY="0" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="MsconfiusedLoop0002" x="827" y="733" width="391" height="697" frameX="-2" frameY="-6" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="MsconfiusedLoop0003" x="827" y="733" width="391" height="697" frameX="-2" frameY="-6" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="MsconfiusedLoop0004" x="1238" y="733" width="395" height="690" frameX="0" frameY="-13" frameWidth="395" frameHeight="703"/>
+	<SubTexture name="MsconfiusedLoop0005" x="1238" y="733" width="395" height="690" frameX="0" frameY="-13" frameWidth="395" frameHeight="703"/>
+</TextureAtlas>

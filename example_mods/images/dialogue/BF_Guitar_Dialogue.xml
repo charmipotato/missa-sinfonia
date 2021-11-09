@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF_Guitar_Dialogue.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BFCoolTalkLoop0000" x="10" y="10" width="440" height="419"/>
+	<SubTexture name="BFCoolTalkLoop0001" x="10" y="10" width="440" height="419"/>
+	<SubTexture name="BFCoolTalkLoop0002" x="460" y="10" width="433" height="416" frameX="0" frameY="-3" frameWidth="440" frameHeight="419"/>
+	<SubTexture name="BFCoolTalkLoop0003" x="460" y="10" width="433" height="416" frameX="0" frameY="-3" frameWidth="440" frameHeight="419"/>
+	<SubTexture name="BFCoolTalkLoop0004" x="903" y="10" width="427" height="412" frameX="0" frameY="-7" frameWidth="440" frameHeight="419"/>
+	<SubTexture name="BFCoolTalkLoop0005" x="903" y="10" width="427" height="412" frameX="0" frameY="-7" frameWidth="440" frameHeight="419"/>
+	<SubTexture name="BFCoolTalk0005" x="903" y="10" width="427" height="412" frameX="0" frameY="-7" frameWidth="440" frameHeight="419"/>
+	<SubTexture name="BFTalkLoop0000" x="1340" y="10" width="440" height="419"/>
+	<SubTexture name="BFTalkLoop0001" x="1340" y="10" width="440" height="419"/>
+	<SubTexture name="BFTalkLoop0002" x="10" y="439" width="433" height="416" frameX="0" frameY="-3" frameWidth="440" frameHeight="419"/>
+	<SubTexture name="BFTalkLoop0003" x="10" y="439" width="433" height="416" frameX="0" frameY="-3" frameWidth="440" frameHeight="419"/>
+	<SubTexture name="BFTalkLoop0004" x="453" y="439" width="427" height="412" frameX="0" frameY="-7" frameWidth="440" frameHeight="419"/>
+	<SubTexture name="BFTalkLoop0005" x="453" y="439" width="427" height="412" frameX="0" frameY="-7" frameWidth="440" frameHeight="419"/>
+	<SubTexture name="BFTalk0005" x="453" y="439" width="427" height="412" frameX="0" frameY="-7" frameWidth="440" frameHeight="419"/>
+	<SubTexture name="BFconfusedTalkLoop0000" x="890" y="439" width="440" height="419"/>
+	<SubTexture name="BFconfusedTalkLoop0001" x="890" y="439" width="440" height="419"/>
+	<SubTexture name="BFconfusedTalkLoop0002" x="1340" y="439" width="433" height="416" frameX="0" frameY="-3" frameWidth="440" frameHeight="419"/>
+	<SubTexture name="BFconfusedTalkLoop0003" x="1340" y="439" width="433" height="416" frameX="0" frameY="-3" frameWidth="440" frameHeight="419"/>
+	<SubTexture name="BFconfusedTalkLoop0004" x="10" y="868" width="427" height="412" frameX="0" frameY="-7" frameWidth="440" frameHeight="419"/>
+	<SubTexture name="BFconfusedTalkLoop0005" x="10" y="868" width="427" height="412" frameX="0" frameY="-7" frameWidth="440" frameHeight="419"/>
+	<SubTexture name="BFconfusedTalk0005" x="10" y="868" width="427" height="412" frameX="0" frameY="-7" frameWidth="440" frameHeight="419"/>
+</TextureAtlas>

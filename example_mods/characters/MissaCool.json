@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-1,
+				-70
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "MissaCoolIdle"
+		},
+		{
+			"offsets": [
+				-1,
+				-70
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "MissaCoolIdle"
+		},
+		{
+			"offsets": [
+				81,
+				-75
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "MissaCoolLEFT"
+		},
+		{
+			"offsets": [
+				30,
+				-66
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "MissaCoolRIGHT"
+		},
+		{
+			"offsets": [
+				5,
+				-175
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "MissaCoolDOWN"
+		},
+		{
+			"offsets": [
+				29,
+				-59
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "MissaCoolUP"
+		},
+		{
+			"offsets": [
+				-5,
+				-70
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "que",
+			"loop": false,
+			"name": "MissaCoolQue"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MissasinfoniaCool",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "missacool",
+	"flip_x": true,
+	"healthbar_colors": [
+		40,
+		40,
+		40
+	],
+	"camera_position": [
+		-60,
+		170
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

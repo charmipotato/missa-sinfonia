@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GF_Dialogue.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GFTalk0000" x="620" y="10" width="293" height="414"/>
+	<SubTexture name="gftalkloop0000" x="10" y="10" width="296" height="424"/>
+	<SubTexture name="gftalkloop0001" x="10" y="10" width="296" height="424"/>
+	<SubTexture name="gftalkloop0002" x="316" y="10" width="294" height="419" frameX="-2" frameY="-4" frameWidth="296" frameHeight="424"/>
+	<SubTexture name="gftalkloop0003" x="316" y="10" width="294" height="419" frameX="-2" frameY="-4" frameWidth="296" frameHeight="424"/>
+	<SubTexture name="gftalkloop0004" x="620" y="10" width="293" height="414" frameX="-3" frameY="-7" frameWidth="296" frameHeight="424"/>
+	<SubTexture name="gftalkloop0005" x="620" y="10" width="293" height="414" frameX="-3" frameY="-7" frameWidth="296" frameHeight="424"/>
+	<SubTexture name="GFWTF0000" x="620" y="444" width="293" height="414"/>
+	<SubTexture name="gfwtfloop0000" x="10" y="444" width="296" height="424"/>
+	<SubTexture name="gfwtfloop0001" x="10" y="444" width="296" height="424"/>
+	<SubTexture name="gfwtfloop0002" x="316" y="444" width="294" height="419" frameX="-2" frameY="-4" frameWidth="296" frameHeight="424"/>
+	<SubTexture name="gfwtfloop0003" x="316" y="444" width="294" height="419" frameX="-2" frameY="-4" frameWidth="296" frameHeight="424"/>
+	<SubTexture name="gfwtfloop0004" x="620" y="444" width="293" height="414" frameX="-3" frameY="-7" frameWidth="296" frameHeight="424"/>
+	<SubTexture name="gfwtfloop0005" x="620" y="444" width="293" height="414" frameX="-3" frameY="-7" frameWidth="296" frameHeight="424"/>
+</TextureAtlas>
